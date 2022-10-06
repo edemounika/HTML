@@ -1,0 +1,21 @@
+.nav{
+    overflow: hidden;
+    background: yellowgreen;
+    margin-top: -5px;
+    
+}
+.nav a{
+    float: left;
+    color:tomato;
+    text-align: center;
+    padding: 20px 16px;
+    font-size: 15;
+    width: 100px;
+    font-weight: bold;
+
+}
+.nav a:hover{
+    background: purple;
+    color: blue;
+}
+   
